@@ -13,7 +13,7 @@ import { Colors } from "@/constants/colors";
 import { useRadioStore } from "@/store/radioStore";
 
 import PlayerControls from "@/components/radio/PlayerControls";
-import VolumeControls from "@/components/radio/VolumeControls";
+import VolumeControls from "@/components/radio/VolumeControl";
 import StationLogo from "@/components/stations/StationLogo";
 
 export default function RadioIndexScreen() {
